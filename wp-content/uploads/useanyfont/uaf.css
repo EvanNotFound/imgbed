@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'pingfangzhun';
+					src: url('/wp-content/uploads/useanyfont/1251PingFangZhun.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/1251PingFangZhun.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.pingfangzhun{font-family: 'pingfangzhun' !important;}
+
+						h1, h2, h3, h4, h5, h6, .entry-title, .widget-title, .site-title, .site-description, body, p, blockquote, li, a, strong, b, em, .menu--container li a, .menu--container li span, #menu- li a, #menu- li span, .menu--container li a, .menu--container li span, #menu- li a, #menu- li span, .menu--container li a, .menu--container li span, #menu- li a, #menu- li span, .menu--container li a, .menu--container li span, #menu- li a, #menu- li span{
+					font-family: 'pingfangzhun' !important;
+				}
+		

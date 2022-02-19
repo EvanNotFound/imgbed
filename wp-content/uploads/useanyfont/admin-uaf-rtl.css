@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'pingfangzhun';
+					src: url('/wp-content/uploads/useanyfont/1251PingFangZhun.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/1251PingFangZhun.woff') format('woff');
+						  font-display: auto;
+				}
+
+				.pingfangzhun{font-family: 'pingfangzhun' !important;}
+
+				.et_gf_pingfangzhun{background:none !important;font-family:pingfangzhun;text-indent:0 !important;font-size:25px;}
+
+		
